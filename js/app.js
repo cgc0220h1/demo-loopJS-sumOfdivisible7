@@ -6,7 +6,6 @@ function sumOfdivide7() {
         if (index % 7 === 0) {
             sum += index;
             count++;
-            index++;
         }
         index++;
     }
